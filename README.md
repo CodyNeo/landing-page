@@ -1,6 +1,6 @@
 # landing-page
 This is a project from [the Odin project](https://www.theodinproject.com/) for learning web development from scratch.  
-This website is made to teach how to use the flexbox layout to design the website.
+This website is made to teach how to use the flexbox layout to design the website according to the given [example](https://raw.githubusercontent.com/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png).
 
 
 Images taken from:  
